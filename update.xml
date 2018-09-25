@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <update>
-  <Appname key="AutoTable">
+  <Appname name="AutoTable">
     <version key="1.0.0.0">
       <UpdateTime></UpdateTime>
       <url>https://github.com/ljyzn/LjyznCloudUpdate/files/2400052/1111.zip</url>
