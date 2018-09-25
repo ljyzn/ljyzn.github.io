@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <update>
   <Appname name="AutoTable">
     <version key="1.0.0.0">
@@ -20,6 +20,36 @@
     <version key="5">
       <UpdateTime></UpdateTime>
       <url>http://cdn.market.hiapk.com/data/upload//2012/06_27/13/yuanbao.co.cc_134532.apk</url>
+      <md5></md5>
+      <sha1></sha1>
+      <SignatureCheckKey></SignatureCheckKey>
+    </version>
+  </Appname>
+
+  <Appname name="Manage">
+    <version key="1.0.0.0">
+      <UpdateTime></UpdateTime>
+      <url>https://github.com/ljyzn/LjyznCloudUpdate/files/2400198/10.zip</url>
+      <md5></md5>
+      <sha1></sha1>
+      <SignatureCheckKey></SignatureCheckKey>
+    </version>
+  </Appname>
+  
+  <Appname name="SelfService">
+    <version key="1.0.0.0">
+      <UpdateTime></UpdateTime>
+      <url>https://github.com/ljyzn/LjyznCloudUpdate/files/2400198/10.zip</url>
+      <md5></md5>
+      <sha1></sha1>
+      <SignatureCheckKey></SignatureCheckKey>
+    </version>
+  </Appname>
+
+  <Appname name="ConsumerTerminal">
+    <version key="1.0.0.0">
+      <UpdateTime></UpdateTime>
+      <url>https://github.com/ljyzn/LjyznCloudUpdate/files/2400198/10.zip</url>
       <md5></md5>
       <sha1></sha1>
       <SignatureCheckKey></SignatureCheckKey>
